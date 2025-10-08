@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
